@@ -14,6 +14,18 @@
 
 ---
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/maryada-lodha-5006976">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maryada-lodha-5006976&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  
+
+</a>
+</p>
+
+---
+
 ## 🌐 Connect with Me  
 ![connect-with-me.png](./connect-with-me.png.png)
 
