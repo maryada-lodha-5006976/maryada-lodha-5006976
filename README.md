@@ -29,7 +29,7 @@
 ## 🌐 Connect with Me  
 ![connect-with-me.png](./connect-with-me.png.png)
 
-- **LinkedIn:** [Maryada Lodha](https://linkedin.com/in/maryada-lodha-a86285190/)  
+- **LinkedIn:** [Maryada Lodha](www.linkedin.com/in/maryada-jain-a86285190)  
 - **Email:** [subhamlodha6@gmail.com](mailto:subhamlodha6@gmail.com)  
 
 ---
